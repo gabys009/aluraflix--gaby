@@ -1,0 +1,32 @@
+body {
+color:purple;
+background: rgb(228, 179, 228);
+margin: 3px;
+font-family: "Chakra Petch", sans-serif;
+}
+
+header {
+color: purple;
+border-bottom: solid 5px rgb(226, 107, 226);
+padding: 10px;
+font-size: 30px;
+
+}
+
+section {
+ background-color: white;
+padding-top: 80px;
+padding-bottom: 0px;
+display: flex;
+justify-content: center;
+}
+
+.chamada-texto {
+  margin-right: 30px;
+  font-size: 15px;
+
+}
+
+img{
+  height: 300px;
+}
